@@ -1,0 +1,55 @@
+{
+    "fps": 30,
+    "KDAbool": false,
+    "HPbarbool": false,
+    "SecB4": 5,
+    "SecAfter": 5,
+    "SaveFolder": "workspace\\videos\\New folder",
+    "dictBox": {
+        "0": {
+            "score": 0.4,
+            "label": "HPbar",
+            "box": []
+        },
+        "1": {
+            "score": 0.4,
+            "label": "KDA",
+            "box": []
+        },
+        "2": {
+            "score": 0.4,
+            "label": "Kills",
+            "box": []
+        },
+        "3": {
+            "score": 0.4,
+            "label": "loading",
+            "box": [
+                0,
+                1,
+                0,
+                1
+            ]
+        },
+        "4": {
+            "score": 0.4,
+            "label": "victory",
+            "box": [
+                0,
+                1,
+                0,
+                1
+            ]
+        },
+        "5": {
+            "score": 0.4,
+            "label": "defeat",
+            "box": [
+                0,
+                1,
+                0,
+                1
+            ]
+        }
+    }
+}
